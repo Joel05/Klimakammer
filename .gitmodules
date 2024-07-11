@@ -14,7 +14,7 @@
 	path = klimakammer-firmwares/klimakammer-firmware-PSU
 	url = https://github.com/Joel05/klimakammer-firmware-PSU
 [submodule "Diplomarbeit_Klimakammer"]
-	path = Diplomarbeit_Klimakammer
+	path = klimakammer-website
 	url = https://github.com/Tee6/Diplomarbeit_Klimakammer
 [submodule "klimakammer-firmware-SUN"]
 	path = klimakammer-firmwares/klimakammer-firmware-SUN
