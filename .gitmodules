@@ -22,3 +22,9 @@
 [submodule "klimakammer-firmware-water-system"]
 	path = klimakammer-firmwares/klimakammer-firmware-water-system
 	url = https://github.com/InZ8ne/klimakammer-firmware-water-system
+[submodule "klimakammer-ai/improved-Klima-SST"]
+	path = klimakammer-ai/improved-Klima-SST
+	url = https://github.com/Tee6/improved-Klima-SST
+[submodule "klimakammer-ai/Speech-to-Klima"]
+	path = klimakammer-ai/Speech-to-Klima
+	url = https://github.com/InZ8ne/Speech-to-Klima
