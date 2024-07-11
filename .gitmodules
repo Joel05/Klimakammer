@@ -8,7 +8,7 @@
 	path = klimakammer-firmwares/klimakammer-firmware-fan
 	url = https://github.com/Joel05/klimakammer-firmware-fan
 [submodule "klimakammer-firmware"]
-	path = klimakammer-firmwares/klimakammer-firmware
+	path = klimakammer-firmwares/klimakammer-firmware-template
 	url = https://github.com/Joel05/klimakammer-firmware
 [submodule "klimakammer-firmware-PSU"]
 	path = klimakammer-firmwares/klimakammer-firmware-PSU
