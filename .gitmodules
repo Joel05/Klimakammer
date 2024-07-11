@@ -2,23 +2,23 @@
 	path = klimakammer-API
 	url = https://github.com/Joel05/klimakammer-API
 [submodule "klimakammer-firmware-sensor"]
-	path = klimakammer-firmware-sensor
+	path = klimakammer-firmwares/klimakammer-firmware-sensor
 	url = https://github.com/Joel05/klimakammer-firmware-sensor
 [submodule "klimakammer-firmware-fan"]
-	path = klimakammer-firmware-fan
+	path = klimakammer-firmwares/klimakammer-firmware-fan
 	url = https://github.com/Joel05/klimakammer-firmware-fan
 [submodule "klimakammer-firmware"]
-	path = klimakammer-firmware
+	path = klimakammer-firmwares/klimakammer-firmware
 	url = https://github.com/Joel05/klimakammer-firmware
 [submodule "klimakammer-firmware-PSU"]
-	path = klimakammer-firmware-PSU
+	path = klimakammer-firmwares/klimakammer-firmware-PSU
 	url = https://github.com/Joel05/klimakammer-firmware-PSU
 [submodule "Diplomarbeit_Klimakammer"]
 	path = Diplomarbeit_Klimakammer
 	url = https://github.com/Tee6/Diplomarbeit_Klimakammer
 [submodule "klimakammer-firmware-SUN"]
-	path = klimakammer-firmware-SUN
+	path = klimakammer-firmwares/klimakammer-firmware-SUN
 	url = https://github.com/Tee6/klimakammer-firmware-SUN
 [submodule "klimakammer-firmware-water-system"]
-	path = klimakammer-firmware-water-system
+	path = klimakammer-firmwares/klimakammer-firmware-water-system
 	url = https://github.com/InZ8ne/klimakammer-firmware-water-system
