@@ -6,5 +6,7 @@ Der Hauptzweck dieser Klimakammer liegt in der Produktverifizierung. Zum Beispie
 
 # Collaborators
 [Niko Leimegger](https://github.com/tee6)
+
 [Simon Koller](https://github.com/inz8ne)
+
 [Joel Rupp](https://github.com/joel05)
